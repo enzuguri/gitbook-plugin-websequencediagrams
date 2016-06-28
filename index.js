@@ -11,6 +11,6 @@ module.exports = {
         }
     },
     book:{
-        js: ["http://www.websequencediagrams.com/service.js"]
+        js: ["https://www.websequencediagrams.com/service.js"]
     }
 };
